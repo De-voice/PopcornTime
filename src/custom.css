@@ -1,0 +1,85 @@
+:root{
+    --bgDark:#000;
+    --textDark:#000;
+    --bgLight:#0a0909d7;
+    --textLight:#fff;
+}
+
+.landing_image {
+    background: url("./assets/landingImg.jpg") ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* a{
+ text-decoration: none;
+ cursor: pointer;
+ font-size: 13px;
+} */
+
+/* .header {
+    width: 100vw;
+    height: 50vh;
+}
+
+.nav_menu{
+    background: var(--bgLight);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.4em;
+    width: 100vw;
+    height: 10vh;
+    position: fixed;
+} */
+/* 
+.nav_menu_ul {
+    display: flex;
+}
+
+.nav_menu_ul li {
+   list-style-type: none;
+   margin-right: 0.5em;
+}
+
+.nav_menu_ul li a {
+    color:var(--textLight);
+   
+    padding: 0.3em;
+ 
+} */
+
+/* a :active{
+    color: #f5f4f48e;
+}
+a > .logo{
+    width: 75px;
+    align-self: center;
+    margin-top: 0.5em;
+    margin-left: 0.7em;
+
+} */
+
+
+/* .section{
+ display: flex;
+ justify-content: flex-end;
+ flex-direction: column;
+ text-align: center;
+} */
+/* 
+.section h1 {
+     margin-top: 5em;
+     font-size: 26px;
+}
+.section h3 {
+     margin-top: 1em;
+     font-size: 18px;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+} */
